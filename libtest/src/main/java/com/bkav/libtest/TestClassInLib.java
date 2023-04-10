@@ -1,6 +1,6 @@
 package com.bkav.libtest;
 
-public class ClassTest {
+public class TestClassInLib {
     void test(){
 
     }
